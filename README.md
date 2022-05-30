@@ -6,9 +6,9 @@
 [Command Line](./The%20Command%20Line)
 
 
-Weeks | day 1                         | day 2                         | day 3             | day 4|day5
+Weeks | day 1 | day 2 | day 3 | day 4 |day5
 :----: | :----:|:----:|:----: | :----:|:----:
-Week 1 | [Express](./Express.md)|                                |                  | 
+Week 1 | [Express](./Express.md)|[Express REST API](./Express-Middlewares02)                             |                  | 
 Week 2 |       |       |
 Week 3 |         |      |       |
 Week 4|           |      |       |
