@@ -5,6 +5,10 @@
 
 [Command Line](./The%20Command%20Line)
 
+[Type](./type.md)
+
+[GIT command](./git.md)
+
 
 Weeks | day 1 | day 2 | day 3 | day 4 |day5
 :----: | :----:|:----:|:----: | :----:|:----:
