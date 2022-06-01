@@ -1,18 +1,18 @@
 
 # Reading Note
 
-[SQL](./SQL.md)
+[SQL](./Prep/SQL.md)
 
-[Command Line](./The%20Command%20Line)
+[Command Line](./Prep/The%20Command%20Line.md)
 
-[Type](./type.md)
+[Type](./Prep/The%20Command%20Line.md)
 
-[GIT command](./git.md)
+[GIT command](./Prep/git.md)
 
 
-Weeks | day 1 | day 2 | day 3 | day 4 |day5
-:----: | :----:|:----:|:----: | :----:|:----:
-Week 1 | [Express](./Express.md)|[Express REST API](./Express-Middlewares02.md)                             |                  | 
+Weeks | day 1 | day 2 | day 3 | 
+:----: | :----:|:----:|:----: |
+Week 1 | [Express](./read-1/Express.md)|[Express REST API](./read-2/Express-Middlewares02.md) |[Implementation](./read-3/Implementation.md) |    
 Week 2 |       |       |
 Week 3 |         |      |       |
 Week 4|           |      |       |
