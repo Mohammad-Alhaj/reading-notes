@@ -2,15 +2,15 @@
 
 ## *SQL*  ( structured query language )
 
-- Sql called relational database
+- Sql is called a relational database
 
 - Sql database table base
 
-- defining and manepelation of data which is powerfull
+- defining and manipulating of data which is powerful
 
 - Good for fit complex query 
 
-- SQL databases are not best fit for hierarchical data storage
+- SQL databases are not the best fit for hierarchical data storage
 
 - 
 
@@ -20,11 +20,11 @@ SQL database examples: `MySql`, `Oracle`, `Sqlite`, `Postgres` and `MS-SQL`.
 
 ### ***Scalability***
 
-- the SQL databases are verticaly scalable you can scalale by increas the CPU and RAN SSD on a single server
+- the SQL databases are vertically scalable you can scalable by increasing the CPU and RAN SSD on a single server
 
 ### ***For high transational***
 
-- the SQL datatbase it's best for fit heavy transational application and it's more stable 
+- the SQL database it's best for fit heavy transactional applications and it's more stable 
 
 
 <br></br>
@@ -33,11 +33,11 @@ SQL database examples: `MySql`, `Oracle`, `Sqlite`, `Postgres` and `MS-SQL`.
 
 ## *NOSQL*
 
-- Nosql called non-relational database or distributed database.
+- Nosql is called a non-relational database or distributed database.
 
-- Nosql database are document based, key-value pairs, graph databases or wide-column stores.  
+- Nosql databases are document-based, key-value pairs, graph databases, or wide-column stores.  
 
-- NOSql forcued queri on cllection of documents .
+- NOSql focused query on a collection of documents.
 
 - not good for fit complex query  
 
@@ -51,8 +51,8 @@ SQL database examples: `MySql`, `Oracle`, `Sqlite`, `Postgres` and `MS-SQL`.
 
 ### ***Scalability***
 
-- the NOSQL database are herianataly you can add few more servers  
+- the NOSQL database is hierarchical you can add a few more servers  
 
  ### ***For high transational***
 
- - you can use it for transational but stil is it not stable 
+ - you can use it for transactional but still is it not stable 
