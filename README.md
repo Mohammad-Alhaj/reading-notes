@@ -12,9 +12,9 @@
 
 Weeks | day 1 | day 2 | day 3 | 
 :----: | :----:|:----:|:----: |
-Week 1 | [Express](./read-1/Express.md)|[Express REST API](./read-2/Express-Middlewares02.md) |[Implementation](./read-3/Implementation.md) |    
-Week 2 | [Data Modeling](./read-4/databaseModling.md)      |[Associations](./read-5/Associations.md)       |
-Week 3 |         |      |       |
+Week 1 |[Express](./read-1/Express.md)|[Express REST API](./read-2/Express-Middlewares02.md)|[Implementation](./read-3/Implementation.md) |    
+Week 2 |[Data Modeling](./read-4/databaseModling.md) |[Associations](./read-5/Associations.md)|[mock interview](./)
+Week 3 |[Authentication](./read-6/Authentication.md)      |      |       |
 Week 4|           |      |       |
 Week 5|           |      |       |          
 Week 6|            |      |       |
