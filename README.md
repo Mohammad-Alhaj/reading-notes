@@ -18,7 +18,7 @@ Week 3 |[Authentication](./read-6/Authentication.md)| [Bearer Authorization](./r
 Week 4|[Project](https://github.com/Mohammad-Alhaj/Auth-Project)|[Stacks and Queues](./read-10/readme.md)  | [Event-Driven Programming in Node.js](./read-11//event.md) |
 Week 5|[Socket.io](./read-12//Socket.io.md)          | [Message Queues](./read-13/Message%20Queues.md)     |       [Project](https://github.com/Mohammad-Alhaj/Auth-Project)|          
 Week 6|[Trees](./read-15/readme.md)  | [AWS Cloud Servers](./read-16/readme.md)|[AWS S3 and Lambda](./read-17/readme.md) |
-Week 7|           |      |       |
+Week 7| [Eid al-Adha](https://i.pinimg.com/originals/d8/79/d6/d879d675d4736b347a484bb0f05cfb63.gif) | [Eid al-Adha](https://i.pinimg.com/originals/d8/79/d6/d879d675d4736b347a484bb0f05cfb63.gif)| [AWS Events](./read-18/readme.md)|
 Week 8|         |      |       |
 Week 9|         |      |       |
 Week 10|         |      |       |
