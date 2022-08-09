@@ -22,7 +22,7 @@ Week 7| [Eid al-Adha](https://i.pinimg.com/originals/d8/79/d6/d879d675d4736b347a
 Week 8| [AWS: API, Dynamo and Lambda](./read-19/readme.md)|[Practice Git Workflow]() |[Project planing]()|
 Week 9|[Project]()|[Project]() |[Project]()       |[Project]()
 Week 10| [Project]()   | [Project]()     | [Project]()      |
-Week 11| [ No lecture]()   |[ Component Based UI](./read-26/Component%20Based%20UI.md)       |       |
+Week 11| [ No lecture]()   |[ Component Based UI](./read-26/Component%20Based%20UI.md)       | [useState hook](./read-27/useState.md)      |
 Week 12|         |      |       |
 Week 13|           |      |       |
 Week 14|         |      |       | 
