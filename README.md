@@ -23,7 +23,7 @@ Week 8| [AWS: API, Dynamo and Lambda](./read-19/readme.md)|[Practice Git Workflo
 Week 9|[Project]()|[Project]() |[Project]()       |[Project]()
 Week 10| [Project]()   | [Project]()     | [Project]()      |
 Week 11| [ No lecture]()   |[ Component Based UI](./read-26/Component%20Based%20UI.md)       | [useState hook](./read-27/useState.md)      |
-Week 12|[use effect hook](./read-28/use%20effect.md)         | [useReducer](./read-29/useReducer.md)     |       |
+Week 12|[use effect hook](./read-28/use%20effect.md)         | [useReducer](./read-29/useReducer.md)     | [hash table](./read-30/Hashtables.md)      |
 Week 13|           |      |       |
 Week 14|         |      |       | 
 Week 15|          |      |       |
