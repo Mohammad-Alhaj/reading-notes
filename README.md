@@ -24,7 +24,7 @@ Week 9|[Project]()|[Project]() |[Project]()       |[Project]()
 Week 10| [Project]()   | [Project]()     | [Project]()      |
 Week 11| [ No lecture]()   |[ Component Based UI](./read-26/Component%20Based%20UI.md)       | [useState hook](./read-27/useState.md)      |
 Week 12|[use effect hook](./read-28/use%20effect.md)         | [useReducer](./read-29/useReducer.md)     | [hash table](./read-30/Hashtables.md)      |
-Week 13|           |      |       |
+Week 13| [context API](./read-31/context%20API.md)          |      |       |
 Week 14|         |      |       | 
 Week 15|          |      |       |
 Week 16|         |      |       |
