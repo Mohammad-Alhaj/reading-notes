@@ -25,7 +25,7 @@ Week 10| [Project]()   | [Project]()     | [Project]()      |
 Week 11| [ No lecture]()   |[ Component Based UI](./read-26/ComponentBasedUI.md)       | [useState hook](./read-27/useState.md)      |
 Week 12|[use effect hook](./read-28/useeffect.md)         | [useReducer](./read-29/useReducer.md)     | [hash table](./read-30/Hashtables.md)      |
 Week 13|  [About linkedin]()  |   [context API](./read-31/contextAPI.md)   | [ContextAPIBehaviors](./read-32/ContextAPIBehaviors.md)      |
-Week 14|         |      |       | 
+Week 14| [login Auth](./read-33/readme.md)   | [API Integration](./read-34/readme.md)     |       | 
 Week 15|          |      |       |
 Week 16|         |      |       |
 Week 17|        |      |       |
